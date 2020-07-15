@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^3.3.7",
+    "express": "^4.17.1",
+    "express-art-template": "^1.0.1",
+    "mongoose": "^5.9.23",
+    "mysql": "C:\\Users\\liubo\\Desktop\\code\\mypros\\mydemo2-1\\node>\"node\"  \"E:\\software\\NodeJs\\node_global\\\\node_modules\\npm\\bin\\npm-cli.js\" config get save-prefix \r\n^2.18.1"
+  }
+}
